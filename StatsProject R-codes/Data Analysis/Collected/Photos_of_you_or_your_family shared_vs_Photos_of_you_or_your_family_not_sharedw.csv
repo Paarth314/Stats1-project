@@ -1,0 +1,9 @@
+,Benevolence,Integrity,Competence,Identification,Concern
+Photos_of_you_or_your_family shared mean,2.88,2.85,3.03,2.9,3.12
+Photos_of_you_or_your_family_not_shared mean,2.99,2.99,3.26,2.95,3.03
+Photos_of_you_or_your_family shared sd,0.69,0.7,0.67,0.63,0.71
+Photos_of_you_or_your_family_not_shared sd,0.65,0.71,0.79,0.75,0.86
+t-statistic,t(117) = -0.74,t(117) = -0.97,t(117) = -1.53,t(117) = -0.33,t(117) = 0.59
+p-value,0.4591,0.336,0.1292,0.7384,0.557
+95% C.I.,[ -0.39 ;  0.18 ],[ -0.43 ;  0.15 ],[ -0.51 ;  0.07 ],[ -0.32 ;  0.23 ],[ -0.22 ;  0.4 ]
+n,88_31,88_31,88_31,88_31,88_31

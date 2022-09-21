@@ -1,0 +1,9 @@
+,Benevolence,Integrity,Competence,Identification,Concern
+Relationship_Staus shared mean,2.64,2.47,2.44,2.58,2.44
+Relationship_Staus_not_shared mean,2.52,2.46,2.42,2.56,2.36
+Relationship_Staus shared sd,0.67,0.78,0.69,0.63,0.85
+Relationship_Staus_not_shared sd,0.63,0.51,0.54,0.35,0.58
+t-statistic,t(76) = 0.79,t(76) = 0.07,t(76) = 0.1,t(73.14) = 0.14,t(75.97) = 0.48
+p-value,0.4328,0.942,0.9227,0.8886,0.6359
+95% C.I.,[ -0.18 ;  0.42 ],[ -0.3 ;  0.32 ],[ -0.27 ;  0.3 ],[ -0.21 ;  0.24 ],[ -0.24 ;  0.4 ]
+n,46_32,46_32,46_32,46_32,46_32

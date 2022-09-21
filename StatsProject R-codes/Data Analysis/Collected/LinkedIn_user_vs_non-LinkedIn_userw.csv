@@ -1,0 +1,9 @@
+,Benevolence,Integrity,Competence,Identification,Concern
+LinkedIn_user mean,2.78,2.84,2.99,2.83,3.12
+non-LinkedIn_user mean,3.04,2.93,3.19,3,3.08
+LinkedIn_user sd,0.7,0.74,0.73,0.65,0.69
+non-LinkedIn_user sd,0.63,0.66,0.67,0.66,0.81
+t-statistic,t(117) = -2.1,t(117) = -0.69,t(117) = -1.58,t(117) = -1.38,t(117) = 0.26
+p-value,0.038,0.4896,0.1162,0.1687,0.7991
+95% C.I.,[ -0.5 ;  -0.01 ],[ -0.34 ;  0.17 ],[ -0.46 ;  0.05 ],[ -0.4 ;  0.07 ],[ -0.24 ;  0.31 ]
+n,59_60,59_60,59_60,59_60,59_60

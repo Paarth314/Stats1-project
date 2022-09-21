@@ -1,0 +1,9 @@
+,Benevolence,Integrity,Competence,Identification,Concern
+Facebook_user mean,2.88,2.92,3.1,2.91,3.11
+non-Facebook_user mean,2.96,2.81,3.07,2.92,3.08
+Facebook_user sd,0.7,0.75,0.7,0.63,0.7
+non-Facebook_user sd,0.63,0.6,0.73,0.71,0.85
+t-statistic,t(117) = -0.59,t(117) = 0.82,t(117) = 0.2,t(117) = -0.02,t(117) = 0.22
+p-value,0.5543,0.4141,0.8436,0.9864,0.8288
+95% C.I.,[ -0.34 ;  0.19 ],[ -0.16 ;  0.39 ],[ -0.25 ;  0.3 ],[ -0.26 ;  0.25 ],[ -0.26 ;  0.33 ]
+n,81_38,81_38,81_38,81_38,81_38

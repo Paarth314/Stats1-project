@@ -1,0 +1,9 @@
+,Benevolence,Integrity,Competence,Identification,Concern
+Mobile_Number shared mean,2.93,2.56,2.64,2.7,2.74
+Mobile_Number_not_shared mean,2.52,2.45,2.39,2.54,2.33
+Mobile_Number shared sd,0.41,0.75,0.79,0.73,1
+Mobile_Number_not_shared sd,0.67,0.66,0.58,0.48,0.66
+t-statistic,t(76) = 2.17,t(76) = 0.54,t(76) = 1.39,t(76) = 0.99,t(76) = 1.89
+p-value,0.0333,0.594,0.1684,0.323,0.0628
+95% C.I.,[ 0.03 ;  0.78 ],[ -0.29 ;  0.51 ],[ -0.11 ;  0.62 ],[ -0.16 ;  0.47 ],[ -0.02 ;  0.84 ]
+n,14_64,14_64,14_64,14_64,14_64

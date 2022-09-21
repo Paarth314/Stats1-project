@@ -1,0 +1,9 @@
+,Benevolence,Integrity,Competence,Identification,Concern
+Pinterest_user mean,2.86,2.72,3.02,2.96,3.11
+non-Pinterest_user mean,2.94,3,3.14,2.88,3.09
+Pinterest_user sd,0.66,0.69,0.71,0.68,0.72
+non-Pinterest_user sd,0.69,0.69,0.7,0.64,0.78
+t-statistic,t(117) = -0.65,t(117) = -2.17,t(117) = -0.88,t(117) = 0.62,t(117) = 0.16
+p-value,0.5199,0.0324,0.3819,0.5351,0.8712
+95% C.I.,[ -0.33 ;  0.17 ],[ -0.53 ;  -0.02 ],[ -0.38 ;  0.15 ],[ -0.17 ;  0.32 ],[ -0.26 ;  0.3 ]
+n,49_70,49_70,49_70,49_70,49_70

@@ -1,0 +1,9 @@
+,Benevolence,Integrity,Competence,Identification,Concern
+Sexual_Orientation shared mean,2.8,2.76,3.09,2.85,3.14
+Sexual_Orientation_not_shared mean,2.94,2.92,3.09,2.93,3.09
+Sexual_Orientation shared sd,0.59,0.74,0.54,0.61,0.6
+Sexual_Orientation_not_shared sd,0.7,0.69,0.75,0.67,0.8
+t-statistic,t(117) = -0.98,t(117) = -1.08,t(117) = -0.06,t(117) = -0.59,t(117) = 0.28
+p-value,0.3312,0.2822,0.9543,0.556,0.7803
+95% C.I.,[ -0.43 ;  0.15 ],[ -0.46 ;  0.14 ],[ -0.31 ;  0.29 ],[ -0.37 ;  0.2 ],[ -0.28 ;  0.37 ]
+n,28_91,28_91,28_91,28_91,28_91

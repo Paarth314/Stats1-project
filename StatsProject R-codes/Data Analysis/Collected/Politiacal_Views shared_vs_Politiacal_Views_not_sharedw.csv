@@ -1,0 +1,9 @@
+,Benevolence,Integrity,Competence,Identification,Concern
+Politiacal_Views shared mean,2.83,2.72,3,2.89,3.17
+Politiacal_Views_not_shared mean,2.92,2.91,3.11,2.92,3.09
+Politiacal_Views shared sd,0.83,0.82,0.75,0.64,0.86
+Politiacal_Views_not_shared sd,0.65,0.68,0.7,0.66,0.73
+t-statistic,t(117) = -0.54,t(117) = -1.13,t(117) = -0.62,t(117) = -0.14,t(117) = 0.43
+p-value,0.5878,0.2608,0.5357,0.8882,0.671
+95% C.I.,[ -0.43 ;  0.24 ],[ -0.55 ;  0.15 ],[ -0.46 ;  0.24 ],[ -0.35 ;  0.3 ],[ -0.29 ;  0.45 ]
+n,19_100,19_100,19_100,19_100,19_100

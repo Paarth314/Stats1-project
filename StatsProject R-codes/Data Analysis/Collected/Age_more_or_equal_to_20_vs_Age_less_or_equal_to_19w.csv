@@ -1,0 +1,9 @@
+,Benevolence,Integrity,Competence,Identification,Concern
+Age_more_or_equal_to_20 mean,2.78,2.8,3.02,2.81,2.8
+Age_less_or_equal_to_19 mean,2.98,2.92,3.13,2.97,3.26
+Age_more_or_equal_to_20 sd,0.72,0.69,0.57,0.67,0.56
+Age_less_or_equal_to_19 sd,0.65,0.71,0.77,0.65,0.79
+t-statistic,t(117) = -1.51,t(117) = -0.87,t(117) = -0.82,t(117) = -1.26,t(107.51) = -3.67
+p-value,0.1333,0.3849,0.4162,0.2096,4e-04
+95% C.I.,[ -0.45 ;  0.06 ],[ -0.39 ;  0.15 ],[ -0.38 ;  0.16 ],[ -0.41 ;  0.09 ],[ -0.71 ;  -0.21 ]
+n,41_78,41_78,41_78,41_78,41_78
